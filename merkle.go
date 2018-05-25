@@ -80,4 +80,5 @@ func (t *Tree) AddRecord(r []byte) {
 }
 
 func (t *Tree) Proof() {
+    // TODO, along with tests :)
 }
